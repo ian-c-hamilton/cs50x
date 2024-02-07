@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Random and reversed times go up as a function of n squared while the sorted time proportional to n
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the fasted one by far and both the reversed and sorted times are similar
+
+sort3 uses: Selection Sort
+
+How do you know?: All times goes up as a function of n squared, no mater if they are random, reversed, or sorted lists
